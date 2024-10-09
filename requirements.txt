@@ -1,0 +1,7 @@
+langchain
+langchain-community 
+langchain-mistralai
+langchain-openai
+langserve[all]
+langgraph
+fastapi[standard]
